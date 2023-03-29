@@ -20,6 +20,6 @@
 
         - name: getting code to server
           git:
-            repo: ""
+            repo: "https://github.com/pandurang6662/Monolithic_Project_29032023.git"
             dest: /var/www/html/
-            version: ""
+            version: "frontend"
