@@ -6,5 +6,5 @@ logs = {
 Name = "project-instance"
 Environment = "prod"
 }
-key_name = "mykeypaire1"
+key_name = "mykeypaire"
 }
